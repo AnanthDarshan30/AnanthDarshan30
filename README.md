@@ -1,4 +1,4 @@
--~.1![MasterHead](https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif)
+![MasterHead](https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif)
 <h1 align="center">Hi 👋, I'm Ananth Darshan</h1>
 <h3 align="center">Exploring the Boundless Horizons of Computer Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/d4/3c/eb/d43ceb1d770067e7fdc546821e1a4c99.jpg">
