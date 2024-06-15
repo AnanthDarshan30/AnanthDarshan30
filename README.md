@@ -1,11 +1,11 @@
-![MasterHead](https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif)
+-~.1![MasterHead](https://i.pinimg.com/originals/1c/4a/45/1c4a4596912277e7b3b209f1ccf49927.gif)
 <h1 align="center">Hi 👋, I'm Ananth Darshan</h1>
 <h3 align="center">Exploring the Boundless Horizons of Computer Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/d4/3c/eb/d43ceb1d770067e7fdc546821e1a4c99.jpg">
 
 <p align="left"> <a href="https://twitter.com/ananthdarshan_" target="blank"><img src="https://img.shields.io/twitter/follow/ananthdarshan_?logo=twitter&style=for-the-badge" alt="ananthdarshan_" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud Based Ticketing and Payment System using BlockChain Technology**
+- 🔭 I’m currently working on **Data Labeling Platform (WEB3 Use Cases)**
 
 - 💬 Ask me about **DSA**
 
