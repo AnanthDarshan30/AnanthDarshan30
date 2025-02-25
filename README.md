@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/ananthdarshan_" target="blank"><img src="https://img.shields.io/twitter/follow/ananthdarshan_?logo=twitter&style=for-the-badge" alt="ananthdarshan_" /></a> </p>
 
-- 🔭 I’m currently working on **Data Labeling Platform (WEB3 Use Cases)**
+- 🔭 I’m currently working as a Software Developer@ Planon 
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **DSA** and **.NET Framework** 
 
 - 📫 How to reach me **ananth.ofcl@gmail.com**
 
